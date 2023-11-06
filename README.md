@@ -1,4 +1,4 @@
- [![MasterHead]("https://stock.adobe.com/nl/Download/Watermarked/617332571")
+ [![MasterHead](https://stock.adobe.com/nl/Download/Watermarked/617332570)
 
 <h1 align="center">Hi 👋, I'm Ali Osman Ozpinar</h1>
 <h3 align="center">Data Engineer</h3>
